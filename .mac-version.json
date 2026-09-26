@@ -1,0 +1,83 @@
+{
+  "main": "outliers-gather-05-timetable",
+  "main_commit": "57ce96c46deabebcea87f0affb6758d4e1decbb6",
+  "mac": "outliers-gather-05-timetable-mac",
+  "macgen_commit": "d826836+uncommitted",
+  "date": "2026-09-26",
+  "fingerprint": "715c35f496d8256a7c68c789ae86adcbb050736abb9f39a85309e572a42882a1",
+  "left_out_of_fingerprint": [
+    ".mac-version.json"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "category": "same",
+      "sha256": "e664118722da6bf945bd9d4cf36a4e6a534e5abaeefc47f170b4ff1adda3134d"
+    },
+    {
+      "path": ".gitignore",
+      "category": "same",
+      "sha256": "19ad5a40ca5026633b3861d5d5690bb8cb5932bc256674ff5008384ad9ad6135"
+    },
+    {
+      "path": "README.md",
+      "category": "changed",
+      "sha256": "825c399eb2f28ee6014dd1c373865e9b2b179a90c902724e7c68c08948270092"
+    },
+    {
+      "path": "WHAT-I-STOLE.md",
+      "category": "same",
+      "sha256": "a31af98d17a0533fa99dfb46051436e7fcd120a8fb098a61b231ea9636d7c611"
+    },
+    {
+      "path": "engine/crm_paths.py",
+      "category": "same",
+      "sha256": "ab10c6f724efc213d756862c20e42f31a0f96d17e6f54122cea95c075d1b54ab"
+    },
+    {
+      "path": "engine/safe_write.py",
+      "category": "same",
+      "sha256": "34708344aa0a1d531c356306b33f76b33670413fd96f045dfcc21271deebc026"
+    },
+    {
+      "path": "engine/timetable.py",
+      "category": "same",
+      "sha256": "d2dbf8e476a6d81feff3d7d54df83eb4a45e05bab7595abec3b114c3e09a7d4c"
+    },
+    {
+      "path": "engine/timetable_clock.py",
+      "category": "same",
+      "sha256": "a60c07be082966270436a2a87d304d993f7b7f847293caa6853bed7d3bc4c41f"
+    },
+    {
+      "path": "engine/timetable_daemon.py",
+      "category": "same",
+      "sha256": "e73febe1bdfb9542292a19856689f044d54586783b6a62fa634a0da0017d296c"
+    },
+    {
+      "path": "engine/timetable_platform.py",
+      "category": "same",
+      "sha256": "79461e0d2271ebe141b338c08943f6ad8b41d7f2eca97d39b188103abaac3998"
+    },
+    {
+      "path": "engine/timetable_runner.py",
+      "category": "same",
+      "sha256": "b5533f3bea2feb212eb1a40dd5ff729a9b04f6270f951f72379af864bd23f733"
+    },
+    {
+      "path": "engine/timetable_store.py",
+      "category": "same",
+      "sha256": "3ec6ea3eb247446700f3790180e1c6d22c7aa4c5447a3462dbb3f7d343882d72"
+    },
+    {
+      "path": "install.py",
+      "category": "same",
+      "sha256": "a5fe7c4bd57f602fc2630307e7246fd9f430c18d6e3bb669a537396c9786984c"
+    },
+    {
+      "path": "tests/test_timetable.py",
+      "category": "same",
+      "sha256": "fdf63cdaba7f791df3856072b9ffcd82528116d5f4901d1a6f1897440d846c58"
+    }
+  ]
+}
